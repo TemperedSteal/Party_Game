@@ -15,14 +15,14 @@ pip install flask flask-socketio eventlet
 
 
 3. Save Your Python Script
-- Save your code in a file name, for example, `Party_Game.py`.
+- Save your code in a file name, for example, `PartyGame.py`.
 
 
 4. Run The Game
-- Open a terminal in the folder where `Party_Game.py` is saved
+- Open a terminal in the folder where `PartyGame.py` is saved
 - Run: 
 ```bash
-python Party_Game.py
+python PartyGame.py
 ```
 - If it works, the terminal will show something like:
 ```bash
