@@ -1,3 +1,23 @@
+# PartyGame
+## The game contains the following
+- A host and player separation of roles for lobby moderation
+- Anonymous dare system where all players can add a dare throughout the game
+- A randomised algorithm of matching a player and a dare
+- A visual spinning wheel to add some fun and anticipation
+- If a player decides a dare is too difficult, they can choose to forfeit the dare at a cost (randomly given 1 to 4 shots)
+- A shots taken counter is displayed beside the player names
+- A toggle system for hiding your dares in case another person decides to peek
+![App Screenshot](PartyGameSS.png)
+
+
+
+
+
+
+
+
+
+
 ### How to run this party game!
 
 1. Install Python
